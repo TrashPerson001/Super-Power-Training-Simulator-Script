@@ -1,5 +1,4 @@
-# Super-Power-Training-Simulator-Script
-pp all,f1 respawn,etc...
+
 loadstring(game:HttpGet("https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FastyGame31/blyat-hub/main/by%20fasty"))()
 game.Players.LocalPlayer.Character.UpperTorso.Waist:remove()
